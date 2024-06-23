@@ -1,4 +1,4 @@
 # project-demo
 this is my first git repository
 <br>
-created by : ISHWAR GUPTA
+Created By : ISHWAR GUPTA
